@@ -7,7 +7,7 @@ public class HCF_{
         int input1 = input.nextInt();
         System.out.println("Enter the second Number");
         int input2 = input.nextInt();
-        int result
+        int result;
 
 
         input.close();
