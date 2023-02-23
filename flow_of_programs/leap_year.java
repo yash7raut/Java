@@ -1,3 +1,5 @@
+package flow_of_programs;
+
 import java.util.Scanner;
 
 public class leap_year{

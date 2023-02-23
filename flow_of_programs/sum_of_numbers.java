@@ -1,3 +1,5 @@
+package flow_of_programs;
+
 import java.util.Scanner;
 
 class sum_of_numbers{
